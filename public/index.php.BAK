@@ -1,0 +1,13 @@
+<?php
+include '../app/views/header.php';
+?>
+
+
+  <?php
+  //require '../vendor/autoload.php';
+  include '../app/views/gestion.php';
+  ?>
+  
+  <?php
+  include '../app/views/footer.php';
+  ?>
